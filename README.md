@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Kealeboga Motlhankane
 
 - 📖 I'm a student at the University of Cape Town studying Electrical and computer engineering
-- 🌱 I’m also learning all neat stuff about web development
+- 🌱 I’m also learning all neat stuff about web development, embedded systems and control systems
 
 <!--
 **Kealeboga56/Kealeboga56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
